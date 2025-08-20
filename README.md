@@ -54,6 +54,10 @@ This is a ✨ _special_ ✨ repository because it tells you about me.
 ### 🏆 Badges & Fun
 
 [![](https://visitcount.itsvg.in/api?id=sanjjj44&icon=0&color=0)](https://visitcount.itsvg.in)
+[![Visits](https://visitcount.itsvg.in/api?id=sanjjj44&label=Profile%20Views&color=12&icon=5&pretty=true)](https://visitcount.itsvg.in)
+[![Visits](https://visitcount.itsvg.in/api?id=sanjjj44&label=Visitors&color=1&icon=3&pretty=true)](https://visitcount.itsvg.in)
+[![Visits](https://visitcount.itsvg.in/api?id=sanjjj44&label=👀%20Views&color=6&icon=8&pretty=true)](https://visitcount.itsvg.in)
+
 
 ---
 ###
