@@ -1,6 +1,5 @@
 ## Hi there 👋
 
-<!--
 **sanjjj44/sanjjj44** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,8 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sanjaishankar2005@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: my projects are not getting outputs and they are running in the fate of universe
--->
-
+- 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjaishankar2005@gmail.com)  
 📫 **Email:** sanjaishankar2005@gmail.com  
