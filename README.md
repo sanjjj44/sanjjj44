@@ -2,8 +2,6 @@
 
 **sanjjj44/sanjjj44** is a ✨ _special_ ✨ repository because its shows about me.
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on to do projects
 - 🌱 I’m currently learning how the codings workings and moree
 - 👯 I’m looking to collaborate on who affect with the curse of not to get outputs
@@ -12,7 +10,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: sanjaishankar2005@gmail.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: my projects are not getting outputs and they are running in the fate of universe
-- 
+  
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjaishankar2005@gmail.com)  
 📫 **Email:** sanjaishankar2005@gmail.com  
@@ -28,4 +26,3 @@ Here are some ideas to get you started:
 ---
 [![](https://visitcount.itsvg.in/api?id=Sanjjj44&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
