@@ -1,7 +1,5 @@
 ## 👋 Hi there! Welcome to my GitHub Profile
 
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGd4d3doa3VuZ2Fmb3Q2YzZ6dmhjd2Fhb2QyYm5rZGs0Z2gycGZ0MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif" width="280" />
-
 I'm **Sanjai Shankar** (aka **sanjjj44**) – a passionate learner, coder, and explorer!  
 This is a ✨ _special_ ✨ repository because it tells you about me.
 
@@ -23,9 +21,8 @@ This is a ✨ _special_ ✨ repository because it tells you about me.
 ### 🌐 Connect with Me
 
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sanjaishankar2005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sanjai-shankar) <!-- Add your LinkedIn URL if you have one -->
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/) <!-- Add your Twitter if you have one -->
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sanjai-shankar-a40aa32b8/) 
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge)](https://www.instagram.com/_sanjjjjj__/)
 ---
 
 ### 💻 Tech Stack
@@ -35,6 +32,11 @@ This is a ✨ _special_ ✨ repository because it tells you about me.
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge)
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white&style=for-the-badge)
+![MERN](https://img.shields.io/badge/MERN-4DB33D?logo=react&logoColor=white&style=for-the-badge)
+
 <!-- Add more tech as you learn them! -->
 
 ---
@@ -55,34 +57,4 @@ This is a ✨ _special_ ✨ repository because it tells you about me.
 
 ---
 
-### ✍️ How to Edit This File
-
-1. **On GitHub:**
-   - Go to your repository: [sanjjj44/sanjjj44](https://github.com/sanjjj44/sanjjj44)
-   - Click the `README.md` file.
-   - Click the pencil (✏️) icon at the top right to edit.
-   - Make your changes in the editor.
-   - Scroll down, add a commit message, and click `Commit changes`.
-
-2. **On your computer:**
-   - Clone your repository:  
-     ```sh
-     git clone https://github.com/sanjjj44/sanjjj44.git
-     ```
-   - Open `README.md` in your favorite text editor (like VS Code, Notepad++, etc.).
-   - Make your changes and save.
-   - Commit and push:
-     ```sh
-     git add README.md
-     git commit -m "Update README"
-     git push
-     ```
-
-3. **Tips:**
-   - You can use Markdown syntax (like `#`, `**bold**`, `- lists`, `![images](url)`).
-   - Preview your changes before saving to see how it will look.
-
----
-
-_Thanks for visiting! Have a great day 😊_
 
