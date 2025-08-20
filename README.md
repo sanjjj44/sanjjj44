@@ -1,28 +1,88 @@
-## Hi there 👋
+## 👋 Hi there! Welcome to my GitHub Profile
 
-**sanjjj44/sanjjj44** is a ✨ _special_ ✨ repository because its shows about me.
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGd4d3doa3VuZ2Fmb3Q2YzZ6dmhjd2Fhb2QyYm5rZGs0Z2gycGZ0MCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/LMt9638dO8dftAjtco/giphy.gif" width="280" />
 
-- 🔭 I’m currently working on to do projects
-- 🌱 I’m currently learning how the codings workings and moree
-- 👯 I’m looking to collaborate on who affect with the curse of not to get outputs
-- 🤔 I’m looking for help with lone
-- 💬 Ask me about and i dont even know about anything
-- 📫 How to reach me: sanjaishankar2005@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: my projects are not getting outputs and they are running in the fate of universe
-  
-## 🌐 Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sanjaishankar2005@gmail.com)  
-📫 **Email:** sanjaishankar2005@gmail.com  
-
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Adobe Lightroom Classic](https://img.shields.io/badge/Adobe%20Lightroom%20Classic-31A8FF.svg?style=for-the-badge&logo=Adobe%20Lightroom%20Classic&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Sanjjj44&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Sanjjj44&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjjj44&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I'm **Sanjai Shankar** (aka **sanjjj44**) – a passionate learner, coder, and explorer!  
+This is a ✨ _special_ ✨ repository because it tells you about me.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Sanjjj44&icon=0&color=0)](https://visitcount.itsvg.in)
+
+### 🚀 About Me
+
+- 🔭 I’m currently working on: fun coding projects, especially in C , C++ , Javascript , Python , HTML , CSS , MERN
+- 🌱 I’m learning: how coding works, and always picking up new languages/tech!
+- 🤝 I’m open to collaborate: with anyone who loves the challenge of debugging mysterious code
+- 🤔 I’m looking for help with: building cool projects, finding coding buddies, and learning best practices
+- 💬 Ask me about: anything! (I might not know everything, but let's figure it out together)
+- 📫 Reach me at: [sanjaishankar2005@gmail.com](mailto:sanjaishankar2005@gmail.com)
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: My code sometimes escapes into the universe and never comes back… but I keep trying!
+
+---
+
+### 🌐 Connect with Me
+
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge)](mailto:sanjaishankar2005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/sanjai-shankar) <!-- Add your LinkedIn URL if you have one -->
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/) <!-- Add your Twitter if you have one -->
+
+---
+
+### 💻 Tech Stack
+
+![C++](https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white&style=for-the-badge)
+![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white&style=for-the-badge)
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge)
+<!-- Add more tech as you learn them! -->
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sanjjj44&theme=dark&hide_border=false&show_icons=true" height="150"/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=sanjjj44&theme=dark&hide_border=false" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanjjj44&theme=dark&hide_border=false&layout=compact" height="150"/>
+</p>
+
+---
+
+### 🏆 Badges & Fun
+
+[![](https://visitcount.itsvg.in/api?id=sanjjj44&icon=0&color=0)](https://visitcount.itsvg.in)
+
+---
+
+### ✍️ How to Edit This File
+
+1. **On GitHub:**
+   - Go to your repository: [sanjjj44/sanjjj44](https://github.com/sanjjj44/sanjjj44)
+   - Click the `README.md` file.
+   - Click the pencil (✏️) icon at the top right to edit.
+   - Make your changes in the editor.
+   - Scroll down, add a commit message, and click `Commit changes`.
+
+2. **On your computer:**
+   - Clone your repository:  
+     ```sh
+     git clone https://github.com/sanjjj44/sanjjj44.git
+     ```
+   - Open `README.md` in your favorite text editor (like VS Code, Notepad++, etc.).
+   - Make your changes and save.
+   - Commit and push:
+     ```sh
+     git add README.md
+     git commit -m "Update README"
+     git push
+     ```
+
+3. **Tips:**
+   - You can use Markdown syntax (like `#`, `**bold**`, `- lists`, `![images](url)`).
+   - Preview your changes before saving to see how it will look.
+
+---
+
+_Thanks for visiting! Have a great day 😊_
 
