@@ -60,8 +60,11 @@ This is a ✨ _special_ ✨ repository because it tells you about me.
 
 **Backup Counter (Always Works):**  
 ![Profile Views Backup](https://komarev.com/ghpvc/?username=sanjjj44&color=blue&style=flat)
-
-
+<p align="center">
+  <img src="https://visitcount.itsvg.in/api?id=sanjjj44&label=Profile%20Views&color=12&icon=5&pretty=true" alt="Profile Views"/>
+  <img src="https://visitcount.itsvg.in/api?id=sanjjj44&label=Visitors&color=1&icon=3&pretty=true" alt="Visitors"/>
+  <img src="https://komarev.com/ghpvc/?username=sanjjj44&color=blue&style=flat" alt="Profile Views Backup"/>
+</p>
 
 ---
 ###
