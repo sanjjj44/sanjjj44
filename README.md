@@ -1,7 +1,7 @@
 ## 👋 Hi there! Welcome to my GitHub Profile
 
-I'm **Sanjai Shankar** (aka **sanjjj44**) – a passionate learner, coder, and explorer!  
-This is a ✨ _special_ ✨ repository because it tells you about me.
+I'm **Sanjai Shankar**  – a passionate learner, coder, and explorer!  
+This is a repository because it tells you about me.
 
 ---
 
